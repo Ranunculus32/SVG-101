@@ -1,7 +1,41 @@
-.woman {
-    height: 600px;
-    width: 500px;
-    background-image: url();
-    color:  #eec60a ;
+h1 {
+    margin: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 45px;
+    font-weight: 500px;
+
+}
+
+.a {
+    width: 100px;
+    height: 100px;
+    stroke: #e46161; 
+    stroke-width: 6px;
+    fill: #f1b963;
+}
+
+.b {
+    width: 200px;
+     height: 200px;
+    stroke: #ffc300;
+     stroke-width: 10px; 
+     fill: #6b0848;
+
+}
+
+.c {
+    width: 300px;
+    height: 300px;
+    stroke: #c06c84;
+    stroke-width: 20px; 
+    fill: #355c7d;
+}
+
+#pregnant2 {
     fill: #ff858a;
+    height: 600px;
+    width: 600px;
+    stroke: #ffc300;
+    stroke-width: 2px; 
+
 }
